@@ -1,0 +1,45 @@
+INSERT INTO companies (
+  name,
+  establishment_date,
+  founder
+) VALUES (
+  'mercari.inc',
+  '2013-02-01',
+  'Shintaro Yamada'
+);
+
+
+
+INSERT INTO companies (
+  name,
+  establishment_date,
+  founder
+) VALUES (
+  'MAEDA.inc',
+  '2025-02-AA',
+  'Takashi Maeda'
+);
+
+INSERT INTO companies (
+  name,
+  establishment_date,
+  founder
+) VALUE (
+  'AAA.inc',
+  '2050-02-01',
+  'Moe Maeda'
+);
+
+INSERT INTO book_log (
+  title,
+  author,
+  progress,
+  evaluation,
+  impression
+) VALUE (
+  'Naucica, vally of wind',
+  'Osamu Teduka',
+  'Done',
+  5,
+  'Amazing!!'
+);
